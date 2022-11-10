@@ -1,0 +1,12 @@
+[
+  {
+    "name": "game of thrones",
+    "season": "8",
+    "finished": "true"
+  },
+  {
+    "name": "breaking bad",
+    "season": "5",
+    "finished": "false"
+  }
+]
