@@ -1,12 +1,5 @@
 [
-  {
-    "name": "game of thrones",
-    "season": "8",
-    "finished": "true"
-  },
-  {
-    "name": "breaking bad",
-    "season": "5",
-    "finished": "false"
-  }
+  { "name": "game of thrones", "season": "8", "finished": "true" },
+  { "name": "breaking bad", "season": "5", "finished": "false" },
+  { "name": "into the night", "season": "2", "finished": "false" }
 ]
